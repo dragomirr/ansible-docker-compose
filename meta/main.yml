@@ -35,3 +35,4 @@ galaxy_info:
   min_ansible_version: 1.9
   galaxy_tags:
     - dockercompose
+    - docker
